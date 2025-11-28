@@ -29,6 +29,7 @@ app.use(cors());
 const allowedOrigins = [
   "https://pintrest-clone-frontend.vercel.app",
   "https://pintrest-clone-frontend-fgs2vvnx1.vercel.app",
+  "http://localhost:5173"
 ];
 
 // Configure CORS to allow multiple origins
